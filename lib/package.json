@@ -1,0 +1,22 @@
+{
+    "name": "@demonstration/lib",
+    "version": "1.0.0",
+    "main": "./dist/src/index.js",
+    "types": "./dist/src/index.d.ts",
+    "engines": {
+        "node": ">=20"
+    },
+    "author": "shunquan wang",
+    "license": "ISC",
+    "description": "",
+    "scripts": {
+        "build": "npx tsc -p tsconfig.json"
+    },
+    "dependencies": {
+        "type-fest": "^4.41.0",
+        "webpack": "^5.99.8"
+    },
+    "devDependencies": {
+        "typescript": "^5.8.3"
+    }
+}
