@@ -2,6 +2,8 @@
 
 When type-fest version is greater than 4.0.0, it will report an error in the export default scenario.
 
+[#issues](https://github.com/sindresorhus/type-fest/issues/1139)
+
 
 ## Prerequisites
 
